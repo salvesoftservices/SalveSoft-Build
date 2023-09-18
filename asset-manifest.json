@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.694d9dfd.css",
-    "main.js": "/static/js/main.a65279eb.js",
+    "main.js": "/static/js/main.a086f7c0.js",
     "static/media/video-1.mp4": "/static/media/video-1.59e75226d30ad48f9ede.mp4",
     "static/media/img-11.jpg": "/static/media/img-11.352e292059b9c3ab9ef3.jpg",
     "static/media/img-12.jpg": "/static/media/img-12.d350e3ba5b248fec05c6.jpg",
@@ -20,10 +20,10 @@
     "index.html": "/index.html",
     "static/media/expert-heavy-equipment.webp": "/static/media/expert-heavy-equipment.e7534095dba034e70271.webp",
     "main.694d9dfd.css.map": "/static/css/main.694d9dfd.css.map",
-    "main.a65279eb.js.map": "/static/js/main.a65279eb.js.map"
+    "main.a086f7c0.js.map": "/static/js/main.a086f7c0.js.map"
   },
   "entrypoints": [
     "static/css/main.694d9dfd.css",
-    "static/js/main.a65279eb.js"
+    "static/js/main.a086f7c0.js"
   ]
 }
