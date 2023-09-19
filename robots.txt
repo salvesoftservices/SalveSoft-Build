@@ -1,1 +1,3 @@
+User-agent: *
+Allow: /
 Sitemap: https://www.salvesoft.com/sitemap.txt
