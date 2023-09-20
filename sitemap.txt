@@ -1,12 +1,6 @@
 https://www.salvesoft.com/
-https://www.salvesoft.com/?/
 https://www.salvesoft.com/?/about
 https://www.salvesoft.com/?/services
 https://www.salvesoft.com/?/contact
 https://www.salvesoft.com/?/career
 
-https://www.salvesoft.com/
-https://www.salvesoft.com/about
-https://www.salvesoft.com/services
-https://www.salvesoft.com/contact
-https://www.salvesoft.com/career
